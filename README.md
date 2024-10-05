@@ -11,7 +11,7 @@ Assess casualties (both killed and wounded) related to terrorist activities, bre
 Explore the characteristics of terrorist attacks, including weapon types and target types.
 # Methodology
 # Data Collection: 
-Data was sourced from [[insert data source here, e.g., the Global Terrorism Database (GTD)](https://www.kaggle.com/datasets/START-UMD/gtd/data)].
+Data was sourced from [[Global Terrorism Database (GTD)](https://www.kaggle.com/datasets/START-UMD/gtd/data)].
 # Data Processing: 
 The dataset was cleaned and prepared for analysis, ensuring that date fields were formatted correctly and necessary columns were retained.
 # Visualization: 
